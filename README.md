@@ -30,7 +30,7 @@ MAU를 고려해 기존 페이스북만 제공되던 소셜로그인을 카카�
 
 
 ## 📍 시연 영상
-<a href="">시연 영상 보러가기</a>
+<a href="https://www.youtube.com/watch?v=cxjxLiupVy4">시연 영상 보러가기</a>
 
 ##### Reference
 
